@@ -2,54 +2,50 @@
 
 # 👋 Hi, I'm Vijender Singh
 
-### 🚀 AI & Data Science Student | Python Developer | SQL Enthusiast | Aspiring Data Engineer
+### 🚀 AI & Data Science Student | Data Analyst | Python Developer | ML Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;AI+%26+Data+Science+Student;Python+Developer;SQL+Problem+Solver;Building+Data+Projects+Every+Day" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;AI+%26+Data+Science+Student;Python+%7C+SQL+%7C+Machine+Learning;Data+Analytics+%7C+Streamlit+Developer;Always+Learning+Something+New+%F0%9F%9A%80" />
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=krvijender29&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 💫 About Me
 
-🎓 B.Tech in Artificial Intelligence & Data Science
+🎓 **B.Tech in Artificial Intelligence & Data Science**  
+🏫 Rajasthan Institute of Engineering & Technology (RIET), Jaipur
 
-🌱 Currently learning **Python, SQL, Data Analysis & Data Engineering**
+💡 Passionate about transforming raw data into meaningful insights.
 
-💡 Interested in
-- Data Analytics
-- Machine Learning
+🌱 Currently Learning
 - Data Engineering
-- Dashboard Development
-- Open Source
+- Machine Learning
+- Advanced SQL
+- Power BI
+- Streamlit
 
-🎯 Goal
-> Become a skilled Data Engineer and build impactful data-driven applications.
+🎯 Career Goal
+> Become a Data Engineer and build scalable data-driven solutions.
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠 Tech Stack
 
-### Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,mysql" />
-</p>
-
-### Web Development
+### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript" />
+<img src="https://skillicons.dev/icons?i=python,mysql,html,css" />
 </p>
 
-### Libraries & Frameworks
-
-<p>
-<img src="https://skillicons.dev/icons?i=flask" />
-</p>
+### Libraries
 
 - Pandas
 - NumPy
+- Scikit-learn
 - Matplotlib
 - Plotly
 - Streamlit
@@ -57,57 +53,106 @@
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
 </p>
 
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=krvijender29&show_icons=true&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=krvijender29&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=krvijender29&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
+- Power BI
+- Microsoft Excel
 
 ---
 
 # 🚀 Featured Projects
 
-### 📊 Sales Data Analysis Dashboard
+## 📊 Amazon Sales Analysis Dashboard
+
+**Tech Used**
 - Python
-- Pandas
-- Plotly
 - Streamlit
+- Pandas
+- NumPy
+- Plotly
 
-### 🚆 Indian Railway Analysis Dashboard
-Interactive dashboard for railway stations, routes and train analytics.
-
-### 🏠 House Price Prediction
-Machine Learning project using Python.
-
-### 📚 SQL Practice Repository
-100+ SQL problems solved from HackerRank.
-
----
-
-# 📈 GitHub Activity Graph
-
-[![Vijender's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=krvijender29&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+### Features
+- Interactive KPI Dashboard
+- Sales Analysis
+- Profit Analysis
+- Regional Analysis
+- Customer Segment Analysis
+- Dynamic Filters
 
 ---
 
-## 🏆 GitHub Trophies
+## 🚆 Railway Train Analysis Dashboard
 
-![](https://github-profile-trophy.vercel.app/?username=krvijender29&theme=tokyonight&no-frame=true&row=1&column=7)
+**Tech Used**
+- Python
+- Streamlit
+- Plotly
+- Pandas
+
+### Features
+- Station Analytics
+- Route Analysis
+- Schedule Analysis
+- Train Insights
+- Interactive Visualizations
 
 ---
 
-## 🌐 Connect With Me
+## 💻 SQL Practice Repository
+
+✔ 100+ SQL Problems
+
+Topics Covered
+
+- SELECT
+- WHERE
+- GROUP BY
+- HAVING
+- ORDER BY
+- JOIN
+- CASE
+- Aggregate Functions
+- Subqueries
+- Window Functions
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=krvijender29&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krvijender29&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=krvijender29&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📊 GitHub Activity
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=krvijender29&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=krvijender29&theme=tokyonight&no-frame=true&margin-w=15"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
 
 <p align="left">
 
@@ -115,28 +160,32 @@ Machine Learning project using Python.
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<a href="YOUR_LINKEDIN_URL">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="mailto:your-email@example.com">
+<a href="mailto:svijender130@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://skillicons.dev/icons?i=webflow" />
 </a>
 
 </p>
 
 ---
 
-## 💻 Visitor Count
+# 💡 Quote
 
-![](https://komarev.com/ghpvc/?username=krvijender29&color=blueviolet&style=for-the-badge)
+> *"Success doesn't come from what you know. It comes from what you consistently build."* 🚀
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### ⭐ If you like my work, don't forget to star my repositories!
 
-*"Code. Learn. Build. Repeat."*
+Thanks for visiting ❤️
 
 </div>
