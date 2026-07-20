@@ -44,9 +44,9 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://krvijender29.github.io/resume-portfolio-with-form/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/vijender-singh-0729b2338" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/krvijender29" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
   <a href="mailto:svijender130@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -57,11 +57,11 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=krvijender29&show_icons=true&theme=default" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krvijender29" alt="GitHub Streak" />
 </p>
 
 <p align="center"><i>⭐️ From Vijender Singh — always learning, always analyzing.</i></p>
