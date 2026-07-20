@@ -1,191 +1,67 @@
-<div align="center">
-
-# 👋 Hi, I'm Vijender Singh
-
-### 🚀 AI & Data Science Student | Data Analyst | Python Developer | ML Enthusiast
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;AI+%26+Data+Science+Student;Python+%7C+SQL+%7C+Machine+Learning;Data+Analytics+%7C+Streamlit+Developer;Always+Learning+Something+New+%F0%9F%9A%80" />
-
-<p>
-<img src="https://komarev.com/ghpvc/?username=krvijender29&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-</p>
-
-</div>
-
----
-
-# 💫 About Me
-
-🎓 **B.Tech in Artificial Intelligence & Data Science**  
-🏫 Rajasthan Institute of Engineering & Technology (RIET), Jaipur
-
-💡 Passionate about transforming raw data into meaningful insights.
-
-🌱 Currently Learning
-- Data Engineering
-- Machine Learning
-- Advanced SQL
-- Power BI
-- Streamlit
-
-🎯 Career Goal
-> Become a Data Engineer and build scalable data-driven solutions.
-
----
-
-# 🛠 Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,mysql,html,css" />
-</p>
-
-### Libraries
-
-- Pandas
-- NumPy
-- Scikit-learn
-- Matplotlib
-- Plotly
-- Streamlit
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
-</p>
-
-- Power BI
-- Microsoft Excel
-
----
-
-# 🚀 Featured Projects
-
-## 📊 Amazon Sales Analysis Dashboard
-
-**Tech Used**
-- Python
-- Streamlit
-- Pandas
-- NumPy
-- Plotly
-
-### Features
-- Interactive KPI Dashboard
-- Sales Analysis
-- Profit Analysis
-- Regional Analysis
-- Customer Segment Analysis
-- Dynamic Filters
-
----
-
-## 🚆 Railway Train Analysis Dashboard
-
-**Tech Used**
-- Python
-- Streamlit
-- Plotly
-- Pandas
-
-### Features
-- Station Analytics
-- Route Analysis
-- Schedule Analysis
-- Train Insights
-- Interactive Visualizations
-
----
-
-## 💻 SQL Practice Repository
-
-✔ 100+ SQL Problems
-
-Topics Covered
-
-- SELECT
-- WHERE
-- GROUP BY
-- HAVING
-- ORDER BY
-- JOIN
-- CASE
-- Aggregate Functions
-- Subqueries
-- Window Functions
-
----
-
-# 📈 GitHub Stats
+<h1 align="center">Hi 👋, I'm Vijender Singh</h1>
+<h3 align="center">Data Analyst Intern | AI & Data Science Undergraduate</h3>
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=krvijender29&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krvijender29&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=krvijender29&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+meaningful+insights;Python+%7C+Pandas+%7C+NumPy+%7C+SQL;Power+BI+%7C+Data+Visualization;Aspiring+Data+Analyst" alt="Typing SVG" />
 </p>
 
 ---
 
-# 📊 GitHub Activity
+### 🚀 About Me
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=krvijender29&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=krvijender29&theme=tokyonight&no-frame=true&margin-w=15"/>
-
-</p>
+- 🎓 Currently pursuing **B.Tech in AI & Data Science** at Rajasthan Institute Of Engineering And Technology, Jaipur
+- 🔭 Currently building real-world **data analysis projects**
+- 🌱 Passionate about transforming raw data into meaningful insights through **analytics and machine learning**
+- 💼 Seeking **Data Analyst internship** opportunities
+- 📍 Based in Suratgarh, Rajasthan, India
+- 📫 Reach me at **svijender130@gmail.com**
 
 ---
 
-# 🌐 Connect With Me
+### 🛠️ Skills
+
+**Technical Skills**
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Core Skills**
+
+`Data Cleaning` `Data Visualization` `Dashboard Development` `Problem Solving`
+
+---
+
+
+### 🌐 Connect with Me
 
 <p align="left">
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="mailto:svijender130@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+</p>
 
-<a href="https://github.com/krvijender29">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="mailto:svijender130@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://skillicons.dev/icons?i=webflow" />
-</a>
-
+<p align="left">
+📧 svijender130@gmail.com &nbsp;|&nbsp; 📱 +91 80790-59053
 </p>
 
 ---
 
-# 💡 Quote
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=default" alt="GitHub Stats" />
+</p>
 
-> *"Success doesn't come from what you know. It comes from what you consistently build."* 🚀
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME" alt="GitHub Streak" />
+</p>
 
----
-
-<div align="center">
-
-### ⭐ If you like my work, don't forget to star my repositories!
-
-Thanks for visiting ❤️
-
-</div>
+<p align="center"><i>⭐️ From Vijender Singh — always learning, always analyzing.</i></p>
