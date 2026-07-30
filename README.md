@@ -13,7 +13,7 @@
 - 🔭 Currently building real-world **data analysis projects**
 - 🌱 Passionate about transforming raw data into meaningful insights through **analytics and machine learning**
 - 💼 Seeking **Data Analyst internship** opportunities
-- 📍 Based in Suratgarh, Rajasthan, India
+- 📍 Based in Jaipur, Rajasthan, India
 - 📫 Reach me at **svijender130@gmail.com**
 
 ---
@@ -57,7 +57,5 @@
 
 ---
 
-<p align="center"> <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=krvijender29&show_icons=true&theme=default" alt="GitHub Stats" />
- </p>
 
 <p align="center"><i>⭐️ From Vijender Singh — always learning, always analyzing.</i></p>
